@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 💡 Skills
-- Frontend: HTML / CSS / Bootstrap / JavaScript / JQuery / React / Restful API
-- Backend: Node.js / PHP / MySQL
-- Others: Git / UI/UX 基礎設計 / Figma
-
----
-
 ## 🔧 Projects
 
 ### 🐾 團隊專案 ｜ 好拾毛—寵物新品及二手用品電商網站
