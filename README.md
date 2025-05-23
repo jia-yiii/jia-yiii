@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🌱 Currently Learning
-- React hooks 與元件架構優化
+- React Class Component/hooks 與元件架構優化
 - UI/UX 流程設計與無障礙設計
 - MySQL 資料庫操作與資料結構設計  
 - Node.js + Express 架設與 API 串接
