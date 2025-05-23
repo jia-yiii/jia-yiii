@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### 🐾 團隊專案 ｜ 好拾毛—寵物新品及二手用品電商網站
 
-**貢獻內容**：購物車、結帳、商品資訊頁面開發，搭配MySQL資料庫、Node.js、API串接等，並運用React渲染頁面顯示內容，並協助團隊進行初步規劃溝通與整合。  
+**負責項目**：購物車、結帳金流、商品詳細頁面、第三方登入及驗證帳號與忘記密碼的信件寄送，搭配MySQL資料庫、Node.js、API串接等，並運用React渲染頁面顯示內容，並協助團隊進行初步規劃溝通與整合。  
 
 🔗 [好拾毛—專案頁面](https://github.com/henry123223323/pet_shop_project)
 
