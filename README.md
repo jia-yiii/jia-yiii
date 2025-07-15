@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 參加六角學院2025年30天軟體工程師體驗營，並完成課程規定之作品切版LV3。
 **主要技術**：使用HTML及CSS完成切版，並搭配基礎JS實現摺疊文章的內容、串接Google Analysis。
 
-🔗 [個人網站—作品頁面](https://github.com/jia-yiii/nails](https://github.com/jia-yiii/personal-website)
+🔗 [個人網站—作品頁面](https://github.com/jia-yiii/personal-website)
+
 ---
 
 ## 🌱 Currently Learning
