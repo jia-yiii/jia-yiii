@@ -46,7 +46,7 @@
 
 ### 💅 慕光日和｜Hikayori — 穿戴甲品牌網站 [![GitHub](https://img.shields.io/badge/github-repo-green?logo=github)](https://github.com/jia-yiii/Hikayori)  [![Live Demo](https://img.shields.io/badge/github-demo-blue?logo=github)](https://jia-yiii.github.io/Hikayori/)  ![Status](https://img.shields.io/badge/status-in%20progress-orange)
 
-> 以穿戴甲品牌為主題打造的前端作品，結合品牌形象、商品展示、穿戴甲指南與訂製諮詢流程，呈現完整且溫柔的品牌網站體驗。
+> 以穿戴甲品牌為主題打造的前端作品，結合品牌形象、商品展示、穿戴甲指南與訂製諮詢流程，呈現溫柔的品牌網站體驗。
 
 **Responsibilities**：品牌網站規劃、商品展示與篩選、訂製諮詢流程、UI/UX 設計
 
